@@ -1,0 +1,31 @@
+[{
+        "model": "countries.Country",
+        "pk": 1,
+        "fields": {
+            "name": "country1",
+            "capital": "capital1",
+            "area": 1000
+        }
+
+    },
+    {
+        "model": "countries.Country",
+        "pk": 2,
+        "fields": {
+            "name": "country2",
+            "capital": "capital2",
+            "area": 2000
+        }
+
+    },
+    {
+        "model": "countries.Country",
+        "pk": 3,
+        "fields": {
+            "name": "country3",
+            "capital": "capital3",
+            "area": 3000
+        }
+
+    }
+]
